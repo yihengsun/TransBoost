@@ -1,4 +1,4 @@
-@ Code for Paper: "TransBoost: A Boosting-Tree Kernel Transfer Learning Algorithm for Improving Financial Inclusion" submitted to AAAI'22
+@ Code for Paper: "TransBoost: A Boosting-Tree Kernel Transfer Learning Algorithm for Improving Financial Inclusion" AAAI'22
 
 
 ### 1. Overview
