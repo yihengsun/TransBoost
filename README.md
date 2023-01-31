@@ -64,5 +64,5 @@ If you find TransBoost useful in your research or work, please consider citing:
 }
 ```
 
-### NotesW:
-Please note the code works perfectly in Linux and MacOS; But if you are using Windows, some simple modification may be required.
+### Notes:
+Please note the code works perfectly in Linux and MacOS; But if you are using Windows, please mannually replace the source code of XGBoost with files in `TransBoost`. 
